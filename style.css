@@ -7,13 +7,13 @@ body {
 }
 .logos {
     position: absolute;
-    top: 10px; /* Adjust the top margin as needed */
-    left: 10px; /* Adjust the left margin as needed */
+    top: 10px; 
+    left: 6px; 
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
     align-items: center;
-    gap: 10px; /* Adjust the gap between logos as needed */
+    gap: 8px; 
 }
 .logos img {
     width: 9vw; 
