@@ -198,7 +198,12 @@ footer {
         margin-top: 20px;
         align-items: center;
     }
-    .card, .edital {
+    .card {
+        width: 70vw;
+        max-width: 350px;
+    }
+    
+    .edital {
         width: 75vw;
         max-width: 400px;
     }
