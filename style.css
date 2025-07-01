@@ -199,7 +199,7 @@ footer {
         align-items: center;
     }
     .card, .edital {
-        width: 90vw;
+        width: 75vw;
         max-width: 400px;
     }
     .cover, .cover img {
